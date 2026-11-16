@@ -1,0 +1,4 @@
+*.o
+fifo_read
+fifo_write
+*.log

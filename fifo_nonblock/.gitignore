@@ -1,0 +1,8 @@
+fifo_read
+fifo_write
+*.o
+*.out
+myfifo
+.DS_Store
+*.swp
+*.swo
